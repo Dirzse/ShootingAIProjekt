@@ -1,0 +1,39 @@
+# Unity – ezeket a Unity magától újragenerálja, NE kerüljenek fel
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IDE / Visual Studio
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML-Agents: a nagy checkpointokat kihagyjuk, a TensorBoard adatok és az .onnx modellek maradnak
+results/**/*.pt
+results/**/checkpoint.pt
+
+# Videók (túl nagyok a GitHubhoz, emailben mennek)
+*.mp4
+*.mov

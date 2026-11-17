@@ -1,0 +1,68 @@
+{
+    "spawn_enemies": {
+        "lesson_num": 1
+    },
+    "ShooterTask": {
+        "checkpoints": [
+            {
+                "steps": 1399880,
+                "file_path": "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1399880.onnx",
+                "reward": null,
+                "creation_time": 1794400594.6560624,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1399880.pt"
+                ]
+            },
+            {
+                "steps": 1599912,
+                "file_path": "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1599912.onnx",
+                "reward": null,
+                "creation_time": 1794400711.5086126,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1599912.pt"
+                ]
+            },
+            {
+                "steps": 1799992,
+                "file_path": "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1799992.onnx",
+                "reward": null,
+                "creation_time": 1794400830.63471,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1799992.pt"
+                ]
+            },
+            {
+                "steps": 1999896,
+                "file_path": "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1999896.onnx",
+                "reward": null,
+                "creation_time": 1794400947.4478683,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_03\\ShooterTask\\ShooterTask-1999896.pt"
+                ]
+            },
+            {
+                "steps": 2000280,
+                "file_path": "results\\ShooterRun_03\\ShooterTask\\ShooterTask-2000280.onnx",
+                "reward": null,
+                "creation_time": 1794400959.881119,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_03\\ShooterTask\\ShooterTask-2000280.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2000280,
+            "file_path": "results\\ShooterRun_03\\ShooterTask.onnx",
+            "reward": null,
+            "creation_time": 1794400959.881119,
+            "auxillary_file_paths": [
+                "results\\ShooterRun_03\\ShooterTask\\ShooterTask-2000280.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.1"
+    }
+}

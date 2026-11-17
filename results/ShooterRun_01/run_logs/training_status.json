@@ -1,0 +1,29 @@
+{
+    "ShooterTask": {
+        "checkpoints": [
+            {
+                "steps": 44141,
+                "file_path": "results\\ShooterRun_01\\ShooterTask\\ShooterTask-44141.onnx",
+                "reward": -2.428500149399042,
+                "creation_time": 1793456975.882509,
+                "auxillary_file_paths": [
+                    "results\\ShooterRun_01\\ShooterTask\\ShooterTask-44141.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44141,
+            "file_path": "results\\ShooterRun_01\\ShooterTask.onnx",
+            "reward": -2.428500149399042,
+            "creation_time": 1793456975.882509,
+            "auxillary_file_paths": [
+                "results\\ShooterRun_01\\ShooterTask\\ShooterTask-44141.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.1"
+    }
+}
