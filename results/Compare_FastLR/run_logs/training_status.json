@@ -1,0 +1,68 @@
+{
+    "spawn_enemies": {
+        "lesson_num": 1
+    },
+    "ShooterTask": {
+        "checkpoints": [
+            {
+                "steps": 399968,
+                "file_path": "results\\Compare_FastLR\\ShooterTask\\ShooterTask-399968.onnx",
+                "reward": null,
+                "creation_time": 1794908208.2924454,
+                "auxillary_file_paths": [
+                    "results\\Compare_FastLR\\ShooterTask\\ShooterTask-399968.pt"
+                ]
+            },
+            {
+                "steps": 599912,
+                "file_path": "results\\Compare_FastLR\\ShooterTask\\ShooterTask-599912.onnx",
+                "reward": 70.1807508468628,
+                "creation_time": 1794908312.281432,
+                "auxillary_file_paths": [
+                    "results\\Compare_FastLR\\ShooterTask\\ShooterTask-599912.pt"
+                ]
+            },
+            {
+                "steps": 799936,
+                "file_path": "results\\Compare_FastLR\\ShooterTask\\ShooterTask-799936.onnx",
+                "reward": null,
+                "creation_time": 1794908419.6756794,
+                "auxillary_file_paths": [
+                    "results\\Compare_FastLR\\ShooterTask\\ShooterTask-799936.pt"
+                ]
+            },
+            {
+                "steps": 999968,
+                "file_path": "results\\Compare_FastLR\\ShooterTask\\ShooterTask-999968.onnx",
+                "reward": null,
+                "creation_time": 1794908526.089737,
+                "auxillary_file_paths": [
+                    "results\\Compare_FastLR\\ShooterTask\\ShooterTask-999968.pt"
+                ]
+            },
+            {
+                "steps": 1001120,
+                "file_path": "results\\Compare_FastLR\\ShooterTask\\ShooterTask-1001120.onnx",
+                "reward": null,
+                "creation_time": 1794908526.1871972,
+                "auxillary_file_paths": [
+                    "results\\Compare_FastLR\\ShooterTask\\ShooterTask-1001120.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1001120,
+            "file_path": "results\\Compare_FastLR\\ShooterTask.onnx",
+            "reward": null,
+            "creation_time": 1794908526.1871972,
+            "auxillary_file_paths": [
+                "results\\Compare_FastLR\\ShooterTask\\ShooterTask-1001120.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.10.1"
+    }
+}
